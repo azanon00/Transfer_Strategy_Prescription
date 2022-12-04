@@ -1,0 +1,17 @@
+feature_names,beta
+international_reputation_normal,2.6674261269013724
+movement_balance_log,2.209064067040079
+power_strength_log,0.960388601914676
+passing_normal,0.6137073035227911
+defense_work_rate_normal,0.33890618265148303
+overall_normal,0.29612388644208726
+skill_dribbling_normal,0.1300130196431925
+attacking_finishing_normal,0.12270465139371622
+power_long_shots_normal,0.0802754829282226
+club_contract_valid_until_normal,0.051335260149470555
+mentality_penalties_normal,0.03831926978159139
+movement_agility_normal,0.03423326979325209
+goalkeeping_reflexes_normal,0.031958596623444344
+attacking_volleys_normal,0.025823990238466807
+movement_sprint_speed_normal,0.022524798004891836
+wage_eur_normal,0.00019013235831629536
