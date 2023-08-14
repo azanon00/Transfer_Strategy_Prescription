@@ -1,5 +1,7 @@
 # MachineLearning_Project
 
+Project for MIT class 15.095 - Machine Learning Under a Modern Optimization Lens
+
 Each folder contains the respective part of the project:
 - See "presentation" for the class presentation and 8-page report. Starting from there is suggested to have a clear overview of the project.
 - "data" contains all the datasets used throughout the project.
